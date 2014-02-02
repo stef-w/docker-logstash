@@ -1,4 +1,4 @@
-FROM zardoz.podzone.org:11002/core/java
+FROM zardoz.podzone.org:11003/core/java
 MAINTAINER Brian Lalor <brian@autosportlabs.com>
 
 ## 2120 zeromq publish output
