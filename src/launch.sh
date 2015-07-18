@@ -37,4 +37,5 @@ exec java \
     -jar /usr/share/logstash/logstash.jar \
     agent \
     --pluginpath /etc/logstash/plugins/ \
-    --config /etc/logstash/conf/
+    --config /etc/logstash/conf/ \
+    -l /var/log/logstash.log
